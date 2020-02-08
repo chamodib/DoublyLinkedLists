@@ -6,8 +6,6 @@
 // ------------
 //
 // Name : <Chamodi Basnayake>
-// St.# : <301309667>
-// Email: <cbasnaya@sfu.ca>
 //
 //
 // Statement of Originality
